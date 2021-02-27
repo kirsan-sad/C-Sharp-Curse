@@ -1,0 +1,12 @@
+C:\Users\Анон\source\repos\test1111111111\test1111111111\bin\Debug\netcoreapp3.1\TestGame.exe
+C:\Users\Анон\source\repos\test1111111111\test1111111111\bin\Debug\netcoreapp3.1\TestGame.deps.json
+C:\Users\Анон\source\repos\test1111111111\test1111111111\bin\Debug\netcoreapp3.1\TestGame.runtimeconfig.json
+C:\Users\Анон\source\repos\test1111111111\test1111111111\bin\Debug\netcoreapp3.1\TestGame.runtimeconfig.dev.json
+C:\Users\Анон\source\repos\test1111111111\test1111111111\bin\Debug\netcoreapp3.1\TestGame.dll
+C:\Users\Анон\source\repos\test1111111111\test1111111111\bin\Debug\netcoreapp3.1\TestGame.pdb
+C:\Users\Анон\source\repos\test1111111111\test1111111111\obj\Debug\netcoreapp3.1\TestGame.csproj.CoreCompileInputs.cache
+C:\Users\Анон\source\repos\test1111111111\test1111111111\obj\Debug\netcoreapp3.1\TestGame.AssemblyInfoInputs.cache
+C:\Users\Анон\source\repos\test1111111111\test1111111111\obj\Debug\netcoreapp3.1\TestGame.AssemblyInfo.cs
+C:\Users\Анон\source\repos\test1111111111\test1111111111\obj\Debug\netcoreapp3.1\TestGame.dll
+C:\Users\Анон\source\repos\test1111111111\test1111111111\obj\Debug\netcoreapp3.1\TestGame.pdb
+C:\Users\Анон\source\repos\test1111111111\test1111111111\obj\Debug\netcoreapp3.1\TestGame.genruntimeconfig.cache
